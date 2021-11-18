@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Midori Browser
+Comment=
+Exec=midori -e Fullscreen -a mirror.html
+Icon=midori
+Terminal=false
+Type=Application
+StartupNotify=false
+Categories=Network;
+NotShowIn=LXDE;
